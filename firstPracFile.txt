@@ -3,3 +3,5 @@ First sample file created in github for practice
 
 
 rana naidu from github
+
+push from local after ssh key generation
